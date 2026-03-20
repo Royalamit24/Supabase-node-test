@@ -1,0 +1,25 @@
+{
+  "name": "supabase-node-test",
+  "version": "1.0.0",
+  "description": "051E-196B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royalamit24/Supabase-node-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Royalamit24/Supabase-node-test/issues"
+  },
+  "homepage": "https://github.com/Royalamit24/Supabase-node-test#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.99.3",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
