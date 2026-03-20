@@ -76,7 +76,7 @@ app.post("/login", async (req, res) => {
 //   res.status(201).json(data);
     res.json({
         data: data.user,
-        // token: 
+        token: data.token,
     })
 });
 
